@@ -1,4 +1,5 @@
-
+As funções predefinidas na linguagem C estão estipuladas nas bibliotecas da linguagem, nos arquivos header com extensão “.h”. Para usá-las nos programas, é necessário incluir no início do mesmo, através da diretiva #include, a biblioteca que possui a função que será usada.
+Dessa maneira, existem diversos header padrão na linguagem C, entre eles:
 
 
 stdio.h
